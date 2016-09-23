@@ -21,7 +21,7 @@ body {
 }
 
 
-container{
+.container{
             font-family:sans serif;
             color:red;
             text-align:center;
